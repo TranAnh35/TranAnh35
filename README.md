@@ -3,7 +3,8 @@ My name is Tran Le Anh. I am a student at Phenikaa University, majoring in Artif
 ## 📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/le-anh-tran-406900294/) 
 
-![Anh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TranAnh35&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=longluv1605&theme=codestackr" alt="Long's GitHub Streak" /></a>
+<a><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=longluv1605&show_icons=true&theme=tokyonight" alt="Anh's GitHub Stats" /></a>
 
 <a href="https://github.com/TranAnh35/Project_OOP/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
